@@ -13,9 +13,9 @@ require('dotenv').config();
 const provider = new HDWalletProvider(
     {
         mnemonic: {
-          phrase: 'select all involve trend auto boost major squeeze round yellow furnace pipe'
+            phrase: 'dance time give venue duty kitchen explain what setup thrive pet pool' 
         },
-        providerOrUrl: 'https://rinkeby.infura.io/v3/c7428c4bd0d54f97b5b9b6c86b2b5a47'
+        providerOrUrl: 'https://rinkeby.infura.io/v3/0f18d1770bfb441992b835ceabd6ab7f'
     }   
 );
 // const provider = new HDWalletProvider(
